@@ -15,6 +15,7 @@ public class CapitalClient {
     }
 
     public static String[] listOfWords(String word, String by) {
+        // return array of characters split
         return word.split(by);
     }
 
