@@ -6,7 +6,7 @@
 
     <groupId>io.github.olajhidey</groupId>
     <artifactId>capitalizr</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>This is a simple library to capitalize string in java</description>
